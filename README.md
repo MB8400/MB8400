@@ -29,21 +29,17 @@ I create Python solutions for:
 
 ---
 
-## 📂 Highlighted Projects
-Here are some of my recent projects:
+## 📂 Portfolio Projects
 
-| Project | Description | GitHub Link |
-|---------|-------------|------------|
-| Job Board Scraper | Scrapes job listings and saves to CSV/Excel | [Repo Link](#) |
-| E-Commerce Price Tracker | Tracks product prices and plots trends | [Repo Link](#) |
-| News Scraper + Organizer | Collects news headlines and exports to Excel | [Repo Link](#) |
-| Excel Automation Tool | Merges multiple Excel sheets and cleans data | [Repo Link](#) |
-| API Data Collector | Pulls data from APIs and stores/plots results | [Repo Link](#) |
+| Project | Type | Description |
+|---------|------|------------|
+| **Job Board Scraper** | Web Scraping | Scrapes job listings (title, company, location, date). Exports to CSV/Excel. |
+| **E-Commerce Price Tracker** | Scraper + Visualization | Tracks daily product prices and plots trends using Python. |
+| **News Scraper & Organizer** | Scraper + Database | Collects headlines and stores in SQLite. Exports to CSV/Excel. |
+| **Excel Automation Tool** | Data Cleaning & Automation | Merges multiple Excel sheets, removes duplicates, and cleans data automatically. |
+| **API Data Collector** | API Integration + Automation | Fetches data from public APIs (weather/crypto/etc.) and exports to CSV/Excel charts. |
 
----
-
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=radical)
+> ✅ **Tip:** Update this table later with screenshots or links to repos for added impact.
 
 ---
 
