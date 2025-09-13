@@ -39,14 +39,10 @@ I create Python solutions for:
 | **Excel Automation Tool** | Data Cleaning & Automation | Merges multiple Excel sheets, removes duplicates, and cleans data automatically. |
 | **API Data Collector** | API Integration + Automation | Fetches data from public APIs (weather/crypto/etc.) and exports to CSV/Excel charts. |
 
-> ✅ **Tip:** Update this table later with screenshots or links to repos for added impact.
-
 ---
 
 ## 📬 Contact Me
-- Email: your.email@example.com  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-- Fiverr/Upwork: [Your Profile](#)
+- Email: bettegamartin@gmail.com  
 
 ---
 
